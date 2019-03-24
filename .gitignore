@@ -26,3 +26,11 @@
 
 ### VS Code ###
 .vscode/
+
+### MacOs ###
+.DS_Store
+
+### SpringBoot ###
+mvnw
+mvnw.cmd
+
